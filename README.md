@@ -23,7 +23,7 @@ However, with its increasingly growing popularity, Bitcoin,  and the like, such 
 To unearth trends, and cryptocurrencies to ultimately back(invest), this analysis looks at a complex collection of cryptocurrency data to which would later be fitted for an unsupervised machine learning model. 
 
 _Learn more about Bitcoin, [here!]( https://www.coinbase.com/learn/crypto-basics/what-is-bitcoin?utm_source=google_search_nb&utm_medium=cpc&utm_campaign=2043624384&utm_content=113244326632&utm_term=bitcoin%20explained&utm_creative=478113585348&cb_device=c&cb_placement=&cb_country=us&cb_city=open&cb_language=en_us&gclid=CjwKCAjw-e2EBhAhEiwAJI5jg9seV2nJxw5vsH9fACgX7wkyuuIRx2CABXyjE72D3Wq0O3W5xM3K2hoC2tIQAvD_BwE)_
-
+#
 
 ## Resources 
 
@@ -32,7 +32,7 @@ _Learn more about Bitcoin, [here!]( https://www.coinbase.com/learn/crypto-basics
  *  Data Access: Workaround, [Project Jupyter: jupyter nbviewer](https://nbviewer.jupyter.org/), a Jupyter Notebook renderer **
      *    Data may not display properly on GitHub, please use provided workaround
 
-
+#
 ## Results  _& Process_: Snapshot 
 Because there were no known outputs for this analysis, it was decided an unsupervised machine learning model would be the best approach.
 
