@@ -28,7 +28,7 @@ _Learn more about Bitcoin, [here!]( https://www.coinbase.com/learn/crypto-basics
 ## Resources 
 
 * Data Source(s): [crypto_data.csv](https://github.com/SoWhitIs/cryptocurrencies/blob/b775a4b9094e7cdd885de0448482c5ced574bef1/data/crypto_data.csv),   [CryptoCompare](https://minapi.cryptocompare.com/data/all/coinlist)
-* Software/Tools: Software/Tool(s): Python | Python Libraries: Scikit-learn, Plotly,   hvPlot, Pandas, Additional Packages: StandardScaler, MinMaxScaler, PCA, KMeans | VS Code 1.54.3 | Jupyter Notebook | Jupyter Notebook**  
+* Software/Tools: Software/Tool(s): Python | Python Libraries: Scikit-learn: StandardScaler, MinMaxScaler, PCA, KMeans Plotly, Holoviews: hvPlot, Pandas| VS Code 1.54.3 | Jupyter Notebook | Jupyter Notebook**  
  *  Data Access: Workaround, [Project Jupyter: jupyter nbviewer](https://nbviewer.jupyter.org/), a Jupyter Notebook renderer **
      *    Data may not display properly on GitHub, please use provided workaround
 
@@ -58,7 +58,7 @@ Furthermore, a K-Means clustering algorithm, was used to group cryptocurrencies 
 
 To determine the amount of clusters or _”K”_ needed for the K-means algorithm, the use of Elbow Curve method was employed with results from previous Principal Compnent Analysis or PCA. 
 
-Using the hvplot package, the elbow curve suggested a value of 4 was the best number of clusters to input into our K-Means model. 
+Using the HoloViews-hvplot package, the elbow curve suggested a value of 4 was the best number of clusters to input into our K-Means model. 
 
 <p align="center"> <b><i>Elbow Curve to Determine K-Means (Worldwide)</b></i> 
  </p>
