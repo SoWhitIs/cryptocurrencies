@@ -3,7 +3,7 @@
 ## Overview of Analysis
 Client is looking to pitch a new investment opportunity to an accounting firm, specifically, in cryptocurrencies. 
 
-Since, inception in 2008, Bitcoin, has provided every bit the intrigue as it has an alternative to _traditional_ forms of currency and exchange. Bitcoin can be used to exchange for like or other currencies, services, and products. Bitcoin is derived from [blockchain technology]( https://www.simplilearn.com/tutorials/blockchain-tutorial/blockchain-technology#:~:text=Blockchain%20technology%20is%20a%20structure,'). Essentially,  “living” in a decentralized environment , or unregulated space, and despite this remains ever popular. 
+Since, inception in 2008, Bitcoin, has provided every bit the intrigue as it has an alternative to _traditional_ forms of currency and exchange. Bitcoin can be used to exchange for like or other currencies, services, and products. Bitcoin is derived from [blockchain technology]( https://www.simplilearn.com/tutorials/blockchain-tutorial/blockchain-technology#:~:text=Blockchain%20technology%20is%20a%20structure,'), essentially,  “living” in a decentralized environment , or unregulated space, and despite this remains ever popular. 
 
 In fact, according to statistics pulled from Google Trends, the term “Bitcoin”, has seen an uptick in searches since December 2020 in the United States. 
 
