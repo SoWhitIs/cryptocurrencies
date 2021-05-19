@@ -28,7 +28,7 @@ _Learn more about Bitcoin, [here!]( https://www.coinbase.com/learn/crypto-basics
 ## Resources 
 
 * Data Source(s): [crypto_data.csv](https://github.com/SoWhitIs/cryptocurrencies/blob/b775a4b9094e7cdd885de0448482c5ced574bef1/data/crypto_data.csv),   [CryptoCompare](https://minapi.cryptocompare.com/data/all/coinlist)
-* Software/Tools: Software/Tool(s): Python | Python Libraries: Scikit-learn: StandardScaler, MinMaxScaler, PCA, KMeans Plotly, Holoviews: hvPlot, Pandas| VS Code 1.54.3 | Jupyter Notebook | Jupyter Notebook**  
+* Software/Tool(s): Python | Python Libraries: Scikit-learn: StandardScaler, MinMaxScaler, PCA, KMeans Plotly, Holoviews: hvPlot, Pandas| VS Code 1.54.3 | Jupyter Notebook | Jupyter Notebook**  
  *  Data Access: Workaround, [Project Jupyter: jupyter nbviewer](https://nbviewer.jupyter.org/), a Jupyter Notebook renderer **
      *    Data may not display properly on GitHub, please use provided workaround
 
