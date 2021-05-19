@@ -87,7 +87,7 @@ Lastly, all available tradable cryptocurrencies were scaled(MinMaxScaler), house
 A table of tradable crypotcurrencies was, too, [generated](images/tradable_crypto_table.png). 
 
 
-**What did the (unsupervied machine learning) model "unearth"?**
+**What did the (unsupervised machine learning) model "unearth"?**
 
 The analysis revealed there are 532 tradable cryptocurrencies. 
 
